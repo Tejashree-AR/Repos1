@@ -1,0 +1,12 @@
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\bin\Debug\netcoreapp3.1\Project.TMS.Data.deps.json
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\bin\Debug\netcoreapp3.1\Project.TMS.Data.dll
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\obj\Debug\netcoreapp3.1\Project.TMS.Data.csprojAssemblyReference.cache
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\obj\Debug\netcoreapp3.1\Project.TMS.Data.AssemblyInfoInputs.cache
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\obj\Debug\netcoreapp3.1\Project.TMS.Data.AssemblyInfo.cs
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\bin\Debug\netcoreapp3.1\Project.TMS.Data.runtimeconfig.json
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\bin\Debug\netcoreapp3.1\Project.TMS.Data.runtimeconfig.dev.json
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\bin\Debug\netcoreapp3.1\Project.TMS.Data.pdb
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\obj\Debug\netcoreapp3.1\Project.TMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\obj\Debug\netcoreapp3.1\Project.TMS.Data.dll
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\obj\Debug\netcoreapp3.1\Project.TMS.Data.pdb
+C:\Users\Tejashree\source\repos\Project.TMS\Project.TMS.Data\obj\Debug\netcoreapp3.1\Project.TMS.Data.genruntimeconfig.cache
